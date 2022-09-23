@@ -537,7 +537,7 @@ body {
 }
 
 .main {
-  background-image: url(img/header.jpg);
+  background-image: url(../img/header.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -735,7 +735,7 @@ body {
 }
 
 .photo {
-  background: url("img/Rectangle.png") no-repeat;
+  background: url("../img/Rectangle.png") no-repeat;
   background-position: 80%;
   background-attachment: local;
   background-size: auto 80%;
